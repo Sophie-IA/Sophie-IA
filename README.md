@@ -2,8 +2,6 @@
 - 👀 I’m interested in Software development and data analysis.
 - 🌱 I’m currently learning python and Javascript.
 - 💞️ I’m looking to collaborate on python and javascript projects.
-- 📫 How to reach me: aumaimmaculate190@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Everyday is an opportunity to learn something👌💯
 
 <!---
