@@ -10,7 +10,7 @@ I love transforming messy datasets into meaningful insights and building cool st
 🎯 Personal Goals:  
 - Master key data analytics tools 👩🏽‍💻
 - Stay fit while coding full-time 🤸🏽‍♀️ 
-- Make Everday Count 💪🏽
+- Make Everyday Count 💪🏽
 
 🛠️ Let’s turn data into direction!(❁´◡`❁)
 
