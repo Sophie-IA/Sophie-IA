@@ -2,17 +2,17 @@
 I love transforming messy datasets into meaningful insights and building cool stuff with Python, SQL, and Power BI. I dive deep, visualize smarter, and always code with purpose.
 
 💡 Currently working on:  
-- Predictive models (like customer churn & sales forecasting)  
+- Predictive models  
 - Dashboards from ETL pipelines  
-- A Python chess game (console ➝ GUI ➝ tkinter)  
-- Data storytelling with real-world datasets
+- Learning Machine learning Algorithms
+- Data Analysis in Excel
 
 🎯 Personal Goals:  
-- Master key data analytics tools  
-- Stay fit while coding full-time  
-- Achieve financial freedom through focus and growth
+- Master key data analytics tools 👩🏽‍💻
+- Stay fit while coding full-time 🤸🏽‍♀️ 
+- Make Everday Count 💪🏽
 
-🛠️ Let’s turn data into direction!
+🛠️ Let’s turn data into direction!(❁´◡`❁)
 
 <!---
 Sophie-IA/Sophie-IA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
