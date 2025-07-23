@@ -6,13 +6,14 @@ I love transforming messy datasets into meaningful insights and building cool st
 - Dashboards from ETL pipelines  
 - Learning Machine learning Algorithms
 - Data Analysis in Excel
+- App development
 
 🎯 Personal Goals:  
 - Master key data analytics tools 👩🏽‍💻
-- Stay fit while coding full-time 🤸🏽‍♀️ 
+- Stay consistent in learning and practicing 🤸🏽‍♀️ 
 - Make Everyday Count 💪🏽
 
-🛠️ Let’s turn data into direction!(❁´◡`❁)
+🛠️ Let’s do our best(❁´◡`❁)
 
 <!---
 Sophie-IA/Sophie-IA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
