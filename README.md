@@ -1,16 +1,8 @@
 ### 👋 Hi, I’m @Sophie-IA — A Curious Data Explorer
 I love transforming messy datasets into meaningful insights and building cool stuff with Python, SQL, and Power BI. I dive deep, visualize smarter, and always code with purpose.
 
-💡 Currently working on:  
-- Predictive models  
-- Dashboards from ETL pipelines  
-- Learning Machine learning Algorithms
-- Data Analysis in Excel
-- App development
-
 🎯 Personal Goals:  
-- Master key data analytics tools 👩🏽‍💻
-- Stay consistent in learning and practicing 🤸🏽‍♀️ 
+- Stay consistent in learning and practicing 👩🏽‍💻
 - Make Everyday Count 💪🏽
 
 🛠️ Let’s do our best(❁´◡`❁)
