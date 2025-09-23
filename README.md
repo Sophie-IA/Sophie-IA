@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Sophie-IA — A Curious Data Explorer
+### 👋 Hi, I’m Sophie — A Curious Data Explorer
 I love transforming messy datasets into meaningful insights and building cool stuff with Python, SQL, and Power BI. I dive deep, visualize smarter, and always code with purpose.
 
 🎯 Personal Goals:  
