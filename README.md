@@ -7,6 +7,8 @@ I love transforming messy datasets into meaningful insights and building cool st
 
 🛠️ Let’s do our best(❁´◡`❁)
 
+🥷🏽👩🏽‍💻A journey of a thousand iles begins with a single step
+
 <!---
 Sophie-IA/Sophie-IA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
